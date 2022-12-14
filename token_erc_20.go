@@ -8,7 +8,7 @@ import (
 	"log"
 
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
-	"github.com/hyperledger/fabric-samples/token-erc-20/chaincode-go/chaincode"
+	"github.com/maghbari/token-erc-20/chaincode"
 )
 
 func main() {
